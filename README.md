@@ -4,5 +4,6 @@ Sistem monitoring realtime pasien Covid-19 ini alat yang digunakan adalah contac
 Muhammad Taufik H. (M3119061)
 Musyaffa Choirun Man (M3119063)
 Nandhika Kurniasari (M3119065)
+=======================
 DOSEN PEMBIMBING:
 Muhammad Asri Safi’ie, S.Si., M.Kom.
